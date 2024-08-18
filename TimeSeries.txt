@@ -1,3 +1,4 @@
 * https://medium.com/@palashm0002/predicting-time-series-data-with-machine-learning-generative-ai-and-deep-learning-36bf99ad6f5e
 * https://medium.com/data-science-on-customer-churn-data/time-series-analysis-on-daily-revenue-data-64c62e92d90d
 * **Cost of using LLM:** https://medium.com/mongodb/the-cost-of-using-llms-f5e30b26c342
+* https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-quantization?utm_source=ainews&utm_medium=email&utm_campaign=ainews-to-be-named-5098
